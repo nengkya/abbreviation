@@ -1,2 +1,2 @@
-#matplotlib : Matrix Plotting Library
-#numpy : Numerical Python
+# matplotlib : Matrix Plotting Library
+# numpy : Numerical Python
