@@ -1,4 +1,4 @@
-: <em> emphasized space  
+: <<em> emphasized space  
 arandr : another rotate and resize  
 arange : array range  
 dtype : data type  
