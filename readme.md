@@ -1,3 +1,4 @@
+&emsp; : <em> emphasized 4 space  
 arandr : another rotate and resize  
 arange : array range  
 dtype : data type  
