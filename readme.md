@@ -5,6 +5,7 @@ dtype : data type
 ndarray : n-dimensional array  
 matplotlib : matrix plotting library  
 numpy : numerical python  
+PSR-4 : PHP Standards Recommendations  
 randr : rotate and resize  
 uname : unix name  
 xrandr : x org rotate and resize  
