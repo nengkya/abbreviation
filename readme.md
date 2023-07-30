@@ -1,4 +1,4 @@
-: <<em> emphasized space  
+{\&emsp;}: {<em>} emphasized space  
 arandr : another rotate and resize  
 arange : array range  
 dtype : data type  
