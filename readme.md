@@ -2,7 +2,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Multiple Math eXtension, or  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Matrix Math eXtension.  
 SIMD       : Single Instruction/Multiple Data,  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;operations refers to a computing method that enables processing of multiple data with a single instruction.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;operations refers to a computing method that enables processing of multiple data with a single instruction.  
 \&emsp;    : \<em> emphasized space  
 arandr     : another rotate and resize  
 arange     : array range  
