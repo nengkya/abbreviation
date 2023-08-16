@@ -3,7 +3,8 @@
 %rcx : counter register  
 %rdx : data register  
 %rsi : source index register  
-%rdi : destination index register    
+%rdi : destination index register  
+<br>
 %xmm0      : MultiMedia eXtension,  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MMultiple Math eXtension, or  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MMatrix Math eXtension.  
