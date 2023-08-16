@@ -24,6 +24,7 @@ matplotlib : matrix plotting library
 numpy      : numerical python  
 PSR-4      : PHP Standards Recommendations 4 
 randr      : rotate and resize  
+sprintf    : string printf format
 URI        : Uniform Resource Identifier  
 uname      : unix name  
 xrandr     : x org rotate and resize  
