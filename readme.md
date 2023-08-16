@@ -1,3 +1,6 @@
+%xmm0 : MultiMedia eXtension,  
+&nbsp;Multiple Math eXtension, or  
+&ensp;Matrix Math eXtension.  
 \&emsp; : \<em> emphasized space  
 arandr : another rotate and resize  
 arange : array range  
@@ -6,7 +9,7 @@ dtype : data type
 ndarray : n-dimensional array  
 matplotlib : matrix plotting library  
 numpy : numerical python  
-PSR-4 : PHP Standards Recommendations  
+PSR-4 : PHP Standards Recommendations 4 
 randr : rotate and resize  
 URI : Uniform Resource Identifier  
 uname : unix name  
