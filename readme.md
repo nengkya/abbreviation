@@ -2,13 +2,13 @@
 %rbx : base register  
 %rcx : counter register  
 %rdx : data register  
-%rsi : source index register
+%rsi : source index register  
 %rdi : destination index register  
 %xmm0      : MultiMedia eXtension,  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MMultiple Math eXtension, or  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MMatrix Math eXtension.  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MMultiple Math eXtension, or  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;MMatrix Math eXtension.  
 SIMD       : Single Instruction/Multiple Data,  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Moperations refers to a computing method that enables processing of multiple data with a single instruction.  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Moperations refers to a computing method that enables processing of multiple data with a single instruction.  
 \&emsp;    : \<em> emphasized space  
 arandr     : another rotate and resize  
 arange     : array range  
