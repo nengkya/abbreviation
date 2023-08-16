@@ -17,7 +17,8 @@ arandr     : another rotate and resize
 arange     : array range  
 awt        : abstract windowing toolkit  
 dtype      : data type  
-fflush     : file flush
+fflush     : file flush  
+fprintf    : filestream print format  
 ndarray    : n-dimensional array  
 matplotlib : matrix plotting library  
 numpy      : numerical python  
