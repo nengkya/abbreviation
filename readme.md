@@ -1,5 +1,5 @@
 %xmm0 : MultiMedia eXtension,  
-&nbsp;Multiple Math eXtension, or  
+&ensp;&ensp;&ensp;Multiple Math eXtension, or  
 &ensp;Matrix Math eXtension.  
 \&emsp; : \<em> emphasized space  
 arandr : another rotate and resize  
