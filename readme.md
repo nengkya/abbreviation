@@ -22,7 +22,7 @@ fprintf    : filestream print format
 ndarray    : n-dimensional array  
 matplotlib : matrix plotting library  
 numpy      : numerical python  
-POSIX      : Portable Operating System Interface  
+POSIX      : Portable Operating System Interface   
 PSR-4      : PHP Standards Recommendations 4 
 randr      : rotate and resize  
 sprintf    : string printf format
