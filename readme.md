@@ -16,7 +16,7 @@ SIMD   : Single Instruction/Multiple Data,
 arandr       : another rotate and resize  
 arange       : array range  
 awt          : abstract windowing toolkit  
-BUFSIZ       : BUFFER SIZE = 256 KB, 512 KB or 4096 KB  
+BUFSIZ       : BUFFER SIZE = 256 KB, 512 KB or 4096 KB, 8192 bytes  
 dtype        : data type  
 fflush       : file flush  
 fprintf      : filestream print format  
