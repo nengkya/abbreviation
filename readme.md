@@ -23,6 +23,7 @@ fprintf      : filestream print format
 ndarray      : n-dimensional array  
 matplotlib   : matrix plotting library  
 numpy        : numerical python  
+POJO         : Plain Old Java Object
 POSIX        : Portable Operating System Interface   
 PSR-4        : PHP Standards Recommendations 4 
 randr        : rotate and resize  
