@@ -21,6 +21,7 @@ dkms         : dynamic kernel module support
 dtype        : data type  
 fflush       : file flush  
 fprintf      : filestream print format  
+GDK          : GIMP Drawing Kit  
 ndarray      : n-dimensional array  
 matplotlib   : matrix plotting library  
 numpy        : numerical python  
