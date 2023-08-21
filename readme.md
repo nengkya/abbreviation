@@ -30,7 +30,7 @@ POSIX        : Portable Operating System Interface
 PSR-4        : PHP Standards Recommendations 4 
 randr        : rotate and resize  
 [setvbuf      : set variable buffer](https://stackoverflow.com/questions/59852550/whats-the-meaning-of-the-letter-v-in-setvbuf)  
-SAP          : Systems, Applications, and Products.
+SAP          : Systems, Applications, and Products.  
 sprintf      : string printf format
 URI          : Uniform Resource Identifier  
 uname        : unix name  
