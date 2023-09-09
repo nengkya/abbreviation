@@ -26,6 +26,7 @@ GDK          : GIMP Drawing Kit
 GTK          : GIMP ToolKit  
 ndarray      : n-dimensional array  
 matplotlib   : matrix plotting library  
+ndmin        : n dimension minimum  
 numpy        : numerical python  
 POJO         : Plain Old Java Object
 POSIX        : Portable Operating System Interface   
