@@ -25,7 +25,8 @@ fprintf      : filestream print format
 GDK          : GIMP Drawing Kit  
 GTK          : GIMP ToolKit  
 ndarray      : n-dimensional array  
-matplotlib   : matrix plotting library  
+matplotlib   : matrix plotting library 
+nditer       : n dimension iterator  
 ndmin        : n dimension minimum  
 numpy        : numerical python  
 POJO         : Plain Old Java Object
