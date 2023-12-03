@@ -13,7 +13,8 @@ SIMD   : Single Instruction/Multiple Data,
 <br>
 \&emsp;       : \<em> emphasized space  
 &nbsp;  
-APM           : Advanced Power Management
+.png          : portable network graphics  
+APM           : Advanced Power Management  
 arandr        : another rotate and resize  
 arange        : array range  
 awt           : abstract windowing toolkit  
